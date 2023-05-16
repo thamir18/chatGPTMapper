@@ -11,14 +11,12 @@ The ChatGPT Mapper is a Python script designed to map sensitive words before sen
 - Edit the scrip file and update with your ChatGPT API token:
 
 ```
+
 ...
  chatgpt_api_token="place_your_API_token_here"
 ... 
+
 ```
-
-
-- Python Installed
-- ChatGPT API Token
 
 
 # How to use chatGPTMapper?

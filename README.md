@@ -8,7 +8,7 @@ The ChatGPT Mapper is a Python script designed to map sensitive words before sen
 - ChatGPT API Token
 
 # Script Preparation
-- Edit the scrip file and update with your ChatGPT API token:
+Edit the scrip file and update with your ChatGPT API token:
 
 ```
 

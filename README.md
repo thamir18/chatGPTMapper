@@ -13,7 +13,9 @@ The ChatGPT Mapper is a Python script designed to map sensitive words before sen
 ```
 
 ...
+
  chatgpt_api_token="place_your_API_token_here"
+ 
 ... 
 
 ```
